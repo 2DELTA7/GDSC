@@ -36,3 +36,5 @@ git remote rm <name>				//To remove a remote
 git push <remote name> <branch name>	//To push a branch to remote repository
 git push <remote name> <branch name>:<branch name you want to have in the remote repository>
 git reset HEAD						//To move to a previous commit
+
+added a new file

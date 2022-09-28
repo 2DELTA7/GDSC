@@ -1,0 +1,2 @@
+print("HELLO GDSC ! WELCOME TO SESSION")
+

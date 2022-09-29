@@ -38,4 +38,4 @@ git push <remote name> <branch name>:<branch name you want to have in the remote
 git reset HEAD						//To move to a previous commit
 Hey there ! Just making some random changes.
 CHeatsheet END //
-
+one more end by aadi jawanjal //
